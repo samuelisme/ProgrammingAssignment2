@@ -1,3 +1,7 @@
+
+##Coursera R Programming
+##Assignment 2
+##Samuel Chan (samuelisme)
 ## Put comments here that give an overall description of what your
 ## functions do
 
